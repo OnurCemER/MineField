@@ -1,0 +1,21 @@
+C:\Users\onurc\OneDrive\Documents\Visual Studio 2012\Projects\Vize 2020\163301059\163301059\bin\Debug\163301059.exe.config
+C:\Users\onurc\OneDrive\Documents\Visual Studio 2012\Projects\Vize 2020\163301059\163301059\bin\Debug\163301059.exe
+C:\Users\onurc\OneDrive\Documents\Visual Studio 2012\Projects\Vize 2020\163301059\163301059\bin\Debug\163301059.pdb
+C:\Users\onurc\OneDrive\Documents\Visual Studio 2012\Projects\Vize 2020\163301059\163301059\obj\Debug\163301059.csprojResolveAssemblyReference.cache
+C:\Users\onurc\OneDrive\Documents\Visual Studio 2012\Projects\Vize 2020\163301059\163301059\obj\Debug\_163301059.Form1.resources
+C:\Users\onurc\OneDrive\Documents\Visual Studio 2012\Projects\Vize 2020\163301059\163301059\obj\Debug\_163301059.Properties.Resources.resources
+C:\Users\onurc\OneDrive\Documents\Visual Studio 2012\Projects\Vize 2020\163301059\163301059\obj\Debug\163301059.csproj.GenerateResource.Cache
+C:\Users\onurc\OneDrive\Documents\Visual Studio 2012\Projects\Vize 2020\163301059\163301059\obj\Debug\163301059.exe
+C:\Users\onurc\OneDrive\Documents\Visual Studio 2012\Projects\Vize 2020\163301059\163301059\obj\Debug\163301059.pdb
+C:\Users\onurc\OneDrive\Documents\Visual Studio 2012\Projects\Vize 2020\163301059\163301059\obj\Debug\_163301059.izlemeEkrani.resources
+F:\Projeler\Projects\Vize 2020\163301059\163301059\bin\Debug\163301059.exe.config
+F:\Projeler\Projects\Vize 2020\163301059\163301059\bin\Debug\163301059.exe
+F:\Projeler\Projects\Vize 2020\163301059\163301059\bin\Debug\163301059.pdb
+F:\Projeler\Projects\Vize 2020\163301059\163301059\obj\Debug\163301059.csprojAssemblyReference.cache
+F:\Projeler\Projects\Vize 2020\163301059\163301059\obj\Debug\_163301059.Form1.resources
+F:\Projeler\Projects\Vize 2020\163301059\163301059\obj\Debug\_163301059.izlemeEkrani.resources
+F:\Projeler\Projects\Vize 2020\163301059\163301059\obj\Debug\_163301059.Properties.Resources.resources
+F:\Projeler\Projects\Vize 2020\163301059\163301059\obj\Debug\163301059.csproj.GenerateResource.cache
+F:\Projeler\Projects\Vize 2020\163301059\163301059\obj\Debug\163301059.csproj.CoreCompileInputs.cache
+F:\Projeler\Projects\Vize 2020\163301059\163301059\obj\Debug\163301059.exe
+F:\Projeler\Projects\Vize 2020\163301059\163301059\obj\Debug\163301059.pdb
